@@ -42,7 +42,7 @@
 
 ![](/assets/images/Generated_Files.png)
 
--main
+- main
 
 ![](/assets/images/main1.png)
 
