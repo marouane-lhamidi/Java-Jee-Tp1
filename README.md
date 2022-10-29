@@ -1,6 +1,6 @@
-** # Rest-Application **
+# Rest-Application 
 
-* ## Description *
+* ## Description 
 
 1. ### Creation of a Web service that allows:
 
@@ -14,39 +14,39 @@
 
 4. ### Create a Java SOAP Client
 
-* ## Execution *
+* ## Execution .
 
 1. ### JaxWS Web Service Implementation
 
-/assets/images/WebService.png
+![](/assets/images/WebService.png)
 
-/assets/images/Compte.png
+![](/assets/images/Compte.png)
 
 2. ### Simple JAX WS Server
 
-/assets/images/main.png
+![](/assets/images/main.png)
 
 - Java server execution
 
-/assets/images/exec1.png
+![](/assets/images/exec1.png)
 
 3. ### Analyze the WSDL
 
 #### To View the WSDL, you can use a web browser
 
-/assets/images/WSLD.png
+![](/assets/images/WSDL.png)
 
 4. ### Create a Java SOAP Client
 
 - Generated Files
 
-/assets/images/Generated Files.png
+![](/assets/images/Generated_Files.png)
 
 -main
 
-/assets/images/main1.png
+![](/assets/images/main1.png)
 
 - Java server execution
 
-/assets/images/exec2.png
+![](/assets/images/exec2.png)
 
